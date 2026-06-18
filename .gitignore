@@ -13,3 +13,10 @@ dev-samples/
 .vscode/
 .idea/
 
+# Claude Code — nada relacionado a .claude debe subirse
+.claude/
+.agents/
+skills-lock.json
+CLAUDE.md
+PROGRESO-FRMDP.md
+

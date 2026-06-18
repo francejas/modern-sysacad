@@ -55,6 +55,17 @@
         "common/common.js",
         "frro/frro.js"
       ]
+    },
+    {
+      "matches": [
+        "https://autogestion.mdp.utn.edu.ar/*"
+      ],
+      "css": [
+        "frmdp/frmdp.css"
+      ],
+      "js": [
+        "frmdp/frmdp.js"
+      ]
     }
   ],
   "web_accessible_resources": [
@@ -68,7 +79,8 @@
         "https://sysacadweb.frgp.utn.edu.ar/*",
         "https://sysacadweb.frre.utn.edu.ar/*",
         "https://sysacad.frvt.utn.edu.ar/*",
-        "https://alumnos.frro.utn.edu.ar/*"
+        "https://alumnos.frro.utn.edu.ar/*",
+        "https://autogestion.mdp.utn.edu.ar/*"
       ]
     }
   ]
